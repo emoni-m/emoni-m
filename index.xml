@@ -11,16 +11,17 @@ and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
 
 
 <title-group>
-<article-title>art</article-title>
+<article-title>The Structure, Function, and Physiological Significance
+of Capillaries</article-title>
 </title-group>
 
 <contrib-group>
 <contrib contrib-type="author" corresp="yes">
 <name>
-<surname>Jones</surname>
-<given-names>Norah</given-names>
+<surname>Mouzon</surname>
+<given-names>Emoni</given-names>
 </name>
-<string-name>Norah Jones</string-name>
+<string-name>Emoni Mouzon</string-name>
 
 <role vocab="https://credit.niso.org" vocab-term="writing – original
 draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">writing</role>
@@ -30,7 +31,7 @@ draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-
 </contrib-group>
 <aff id="aff-1">
 <institution-wrap>
-<institution>The University</institution>
+<institution>CCBC</institution>
 </institution-wrap>
 
 
@@ -66,6 +67,280 @@ draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-
 <body>
 <sec id="section">
   <title>Section</title>
+  <p>Capillaries are the smallest and most functionally critical blood
+  vessels in the human circulatory system. Their thin, single‑cell
+  endothelial walls enable the exchange of gases, nutrients, metabolic
+  waste, and signaling molecules between blood and tissues. This article
+  synthesizes current scientific understanding of capillary structure,
+  classification, hemodynamics, and their role in health and disease.
+  Emphasis is placed on capillary permeability, microcirculatory
+  regulation, and pathological alterations such as those seen in
+  diabetes, inflammation, and tumor angiogenesis.</p>
+</sec>
+<sec id="introduction">
+  <title>Introduction</title>
+  <p>Capillaries form an extensive microvascular network responsible for
+  maintaining tissue homeostasis. With diameters ranging from 5–10 μm,
+  they bridge arterioles and venules and serve as the primary site of
+  molecular exchange. The human body contains an estimated 10 billion
+  capillaries, collectively providing a surface area of approximately
+  500–700 m² for diffusion.</p>
+  <p>Understanding capillary biology is essential because microvascular
+  dysfunction contributes to numerous diseases, including hypertension,
+  sepsis, neurodegeneration, and cancer. This article reviews the
+  structural diversity of capillaries, their physiological mechanisms,
+  and their clinical relevance.</p>
+</sec>
+<sec id="capillary-structure-and-classification">
+  <title>Capillary Structure and Classification</title>
+  <p>Capillaries are composed of:</p>
+  <list list-type="bullet">
+    <list-item>
+      <p><bold>Endothelial cells</bold> arranged in a single layer
+      </p>
+    </list-item>
+    <list-item>
+      <p><bold>Basement membrane</bold> of variable thickness
+      </p>
+    </list-item>
+    <list-item>
+      <p><bold>Pericytes</bold>, which regulate stability and
+      permeability</p>
+    </list-item>
+  </list>
+  <p>Capillaries are traditionally classified into three types:</p>
+  <p>## Continuous Capillaries</p>
+  <list list-type="bullet">
+    <list-item>
+      <p>Found in muscle, skin, lungs, and the central nervous system
+      </p>
+    </list-item>
+    <list-item>
+      <p>Characterized by uninterrupted endothelial lining
+      </p>
+    </list-item>
+    <list-item>
+      <p>Tight junctions limit permeability
+      </p>
+    </list-item>
+    <list-item>
+      <p>The blood–brain barrier represents the most restrictive
+      form</p>
+    </list-item>
+  </list>
+  <sec id="fenestrated-capillaries">
+    <title>Fenestrated Capillaries</title>
+    <list list-type="bullet">
+      <list-item>
+        <p>Found in kidneys, endocrine glands, and intestinal villi
+        </p>
+      </list-item>
+      <list-item>
+        <p>Contain pores (fenestrations) that enhance filtration and
+        absorption
+        </p>
+      </list-item>
+      <list-item>
+        <p>Essential for rapid transcellular exchange</p>
+      </list-item>
+    </list>
+  </sec>
+  <sec id="sinusoidal-discontinuous-capillaries">
+    <title>Sinusoidal (Discontinuous) Capillaries</title>
+    <list list-type="bullet">
+      <list-item>
+        <p>Found in liver, spleen, and bone marrow
+        </p>
+      </list-item>
+      <list-item>
+        <p>Large gaps between endothelial cells
+        </p>
+      </list-item>
+      <list-item>
+        <p>Allow passage of large molecules and even cells</p>
+      </list-item>
+    </list>
+  </sec>
+</sec>
+<sec id="microcirculatory-hemodynamics">
+  <title>Microcirculatory Hemodynamics</title>
+  <p>Capillary blood flow is governed by:</p>
+  <list list-type="bullet">
+    <list-item>
+      <p><bold>Hydrostatic pressure</bold>
+      </p>
+    </list-item>
+    <list-item>
+      <p><bold>Oncotic pressure</bold>
+      </p>
+    </list-item>
+    <list-item>
+      <p><bold>Vessel diameter and resistance</bold>
+      </p>
+    </list-item>
+    <list-item>
+      <p><bold>Precapillary sphincter activity</bold></p>
+    </list-item>
+  </list>
+</sec>
+<sec id="physiological-functions">
+  <title>Physiological Functions</title>
+  <p>Capillaries perform several essential roles:</p>
+  <list list-type="bullet">
+    <list-item>
+      <p><bold>Gas exchange</bold> (O₂ delivery, CO₂ removal)
+      </p>
+    </list-item>
+    <list-item>
+      <p><bold>Nutrient transport</bold> (glucose, amino acids, lipids)
+      </p>
+    </list-item>
+    <list-item>
+      <p><bold>Waste removal</bold> (urea, lactate)
+      </p>
+    </list-item>
+    <list-item>
+      <p><bold>Hormone distribution</bold></p>
+      <list list-type="bullet">
+        <list-item>
+          <p><bold>Immune cell trafficking</bold></p>
+        </list-item>
+      </list>
+      <p>Their function is tightly regulated by metabolic demand, neural
+      input, and endothelial signaling molecules such as nitric
+      oxide.</p>
+    </list-item>
+  </list>
+</sec>
+<sec id="capillaries-in-health-and-disease">
+  <title>Capillaries in Health and Disease</title>
+  <sec id="diabetes-mellitus">
+    <title>Diabetes Mellitus</title>
+    <p>Chronic hyperglycemia leads to:</p>
+    <list list-type="bullet">
+      <list-item>
+        <p>Basement membrane thickening
+        </p>
+      </list-item>
+      <list-item>
+        <p>Reduced perfusion
+        </p>
+      </list-item>
+      <list-item>
+        <p>Microaneurysm formation
+        </p>
+      </list-item>
+      <list-item>
+        <p>Retinopathy and nephropathy</p>
+      </list-item>
+    </list>
+  </sec>
+  <sec id="inflammation">
+    <title>Inflammation</title>
+    <p>Inflammatory mediators increase capillary permeability, enabling
+    leukocyte extravasation but also contributing to edema.</p>
+  </sec>
+  <sec id="tumor-angiogenesis">
+    <title>Tumor Angiogenesis</title>
+    <p>Cancer cells stimulate abnormal capillary growth characterized
+    by:</p>
+    <list list-type="bullet">
+      <list-item>
+        <p>Irregular branching
+        </p>
+      </list-item>
+      <list-item>
+        <p>High permeability
+        </p>
+      </list-item>
+      <list-item>
+        <p>Poor structural integrity</p>
+      </list-item>
+    </list>
+    <p>These features facilitate metastasis and complicate drug
+    delivery.</p>
+  </sec>
+  <sec id="neurovascular-disorders">
+    <title>Neurovascular Disorders</title>
+    <p>Breakdown of the blood–brain barrier contributes to:</p>
+    <list list-type="bullet">
+      <list-item>
+        <p>Alzheimer’s disease
+        </p>
+      </list-item>
+      <list-item>
+        <p>Stroke progression
+        </p>
+      </list-item>
+      <list-item>
+        <p>Multiple sclerosis</p>
+      </list-item>
+    </list>
+  </sec>
+</sec>
+<sec id="discussion">
+  <title>Discussion</title>
+  <p>Capillaries are indispensable for maintaining physiological
+  equilibrium. Their structural diversity allows specialized functions
+  across tissues, while their dynamic regulation ensures responsiveness
+  to metabolic needs. Pathological alterations in capillary function
+  often precede or exacerbate systemic disease, making the
+  microvasculature a critical target for diagnostics and
+  therapeutics.</p>
+  <p>Future research is likely to focus on:</p>
+  <list list-type="bullet">
+    <list-item>
+      <p>Single‑cell endothelial profiling
+      </p>
+    </list-item>
+    <list-item>
+      <p>Microvascular imaging technologies
+      </p>
+    </list-item>
+    <list-item>
+      <p>Targeted modulation of capillary permeability
+      </p>
+    </list-item>
+    <list-item>
+      <p>Regenerative strategies for microvascular repair</p>
+    </list-item>
+  </list>
+</sec>
+<sec id="conclusion">
+  <title>Conclusion</title>
+  <p>Capillaries represent the functional core of the circulatory
+  system. Their unique structure and regulatory mechanisms enable
+  efficient exchange between blood and tissues. A deeper understanding
+  of capillary biology will continue to advance medical science,
+  particularly in fields such as oncology, neurology, and metabolic
+  disease.</p>
+</sec>
+<sec id="references">
+  <title>References</title>
+  <list list-type="order">
+    <list-item>
+      <p>Aird, W. C. (2007). <italic>Phenotypic heterogeneity of the
+      endothelium</italic>. Circulation Research.
+      </p>
+    </list-item>
+    <list-item>
+      <p>Carmeliet, P., &amp; Jain, R. K. (2011). <italic>Principles and
+      mechanisms of vessel normalization for cancer and other angiogenic
+      diseases</italic>. Nature Reviews Drug Discovery.
+      </p>
+    </list-item>
+    <list-item>
+      <p>Levick, J. R., &amp; Michel, C. C. (2010).
+      <italic>Microvascular fluid exchange and the revised Starling
+      principle</italic>. Cardiovascular Research.
+      </p>
+    </list-item>
+    <list-item>
+      <p>Pries, A. R., &amp; Secomb, T. W. (2014). <italic>Making
+      microvascular networks work: angiogenesis, remodeling, and
+      pruning</italic>. Physiology.</p>
+    </list-item>
+  </list>
   <p>This is a simple placeholder for the manuscript’s main document
   (<xref alt="Knuth 1984" rid="ref-knuth84" ref-type="bibr">Knuth
   1984</xref>).</p>
